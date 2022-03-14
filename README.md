@@ -7,7 +7,7 @@ This is an excercise to practice machine learning modeling with data focused on 
 
 ## Technologies
 
-The following modules are required for this applicaton.  However, the file is set for google colab, at https://colab.research.google.com.
+The following modules are required for this applicaton. 
 
 
 * [Python](https://www.python.org/downloads/) - Python code application.
