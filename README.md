@@ -1,4 +1,3 @@
-# Modul_12
 
 ## Credit Risk Resampling
 ---
